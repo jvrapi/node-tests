@@ -2,7 +2,7 @@
   "semi": false,
   "singleQuote": true,
   "arrowParens": "avoid",
-  "trailingComma": "ES6",
+  "trailingComma": "none",
   "endOfLine": "auto",
   "bracketSpacing": true
 }
